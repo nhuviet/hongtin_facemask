@@ -1,4 +1,4 @@
-# hongtin_facemask
+# AI_facemask
 
 SETUP with ANACONDA
 conda install keras
